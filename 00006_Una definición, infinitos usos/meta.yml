@@ -1,0 +1,15 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Los procedimientos que definimos en las actividades anteriores se combinan
+  y nos permiten resolver nuevos problemas. Para pensar: \n\n* ¿Cuáles de los procedimientos
+  definidos necesitamos incorporar a nuestro programa? \n* ¿Es necesario sembrar un
+  solo tomate por fuera de la siembra de los canteros? \n* Si la siembra está resuelta,
+  ¿qué le falta resolver a la solución del problema?"
+manual_evaluation: false
+choices: []
+name: Una definición, infinitos usos

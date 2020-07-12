@@ -1,0 +1,3 @@
+¡Muy bien! :clap: Los procedimientos no son fáciles al principio :sweat_smile:, pero una vez que le agarrás la mano no parecen tan díficiles, ¿verdad? :stuck_out_tongue_winking_eye:
+
+De hecho, nos simplifican la vida al poder darle nombre a un conjunto de acciones que usamos seguido :sunglasses:. Así, no tenemos que repetir lo mismo cada vez que queramos hacerlas. Con solo invocarlo, podemos construir un programa muy poderoso. :muscle::grin:

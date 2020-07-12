@@ -1,0 +1,1 @@
+Por si no te acordás, el programa anterior sembraba una hilera de lechuga.
