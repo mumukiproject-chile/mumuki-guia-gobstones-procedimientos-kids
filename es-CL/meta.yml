@@ -1,0 +1,22 @@
+---
+name: Sembrando futuro
+locale: es
+type: learning
+beta: false
+teacher_info: |-
+  A la hora de resolver un problema podemos distinguir las partes que lo componen y reconocer distintos patrones que se repiten. La división en problemas más pequeños ayuda a entender el problema, pensar la solución y resolverlo de forma ordenada y fácil de comunicar. Para lograr esas tareas al programar usamos los procedimientos. Para pensar:
+
+  * ¿En qué partes podrías separar este problema?
+  * ¿Si combinás todas tus soluciones podés resolver el problema original?
+language: gobstones
+id_format: "%05d"
+order:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+private: false
