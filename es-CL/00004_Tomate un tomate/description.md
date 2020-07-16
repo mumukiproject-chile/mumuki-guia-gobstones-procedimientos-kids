@@ -4,4 +4,4 @@ En el ejercicio anterior definiste el procedimiento `Sembrar Choclo` :corn:, que
 
 Definamos más procedimientos para que Mukinita siga aprendiendo. :memo:
 
-> ¡Ahora es el turno de sembrar tomates :tomato:! Completá el procedimiento `Sembrar Tomate`, para que ponga 4 bolitas rojas.
+> ¡Ahora es el momento de sembrar tomates :tomato:! Completa el procedimiento `Sembrar Tomate` para que ponga 4 bolitas rojas.
