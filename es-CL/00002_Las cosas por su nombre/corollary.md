@@ -1,1 +1,0 @@
-Wooooooow, este programa sí que lo podemos entender :sunglasses:. Y Mukinita lo supo ejecutar. ¿Pero cómo hizo? ¿Y qué es `Definir`? :scream:

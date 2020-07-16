@@ -1,1 +1,0 @@
-Qué interesante esto de que podemos definir un procedimiento y usarlo varias veces, ¿no? :scream: ¿Cuántas veces podemos invocarlo en nuestro `programa`? :thought_balloon:

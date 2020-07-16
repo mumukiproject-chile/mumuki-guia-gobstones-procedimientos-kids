@@ -1,1 +1,0 @@
-Recuerda que el cantero de tomates y la hilera de lechugas siempre se siembran hacia el este. Por eso, es importante ver en qué parcela nos paramos antes de sembrar.

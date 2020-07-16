@@ -1,1 +1,0 @@
-No uses `Sembrar Tomate` dentro de tu programa, porque `Sembrar Cantero de Tomates` ya lo hace por vos :sunglasses:. Pero ojo :eyes:: vas a tener que moverte hacia el `Norte` dos veces y una hacia el `Oeste` para poder sembrar el segundo cantero con comodidad. 
