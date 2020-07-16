@@ -2,6 +2,6 @@
 
 Ah, ¡pero a los tomates no les gusta estar solos :disappointed:! Vamos a sembrarlos en canteros, que son dos tomates en línea. :tomato::tomato:
 
-Lo bueno es que ya no nos tenemos que preocupar por _cómo_ plantar tomates, porque ahora contamos con `Sembrar Tomate`. :relaxed:
+Lo bueno es que ya no tenemos que preocuparnos por _cómo_ plantar tomates, porque ahora contamos con `Sembrar Tomate`. :relaxed:
 
-> ¡Sembrá un cantero de tomates! Completá el procedimiento `Sembrar Cantero De Tomates` para que siembre un tomate y otro al Este, e invocalo desde el `programa`.
+> ¡Sembra un cantero de tomates! Completa el procedimiento `Sembrar Cantero De Tomates` para que siembre un tomate y otro al este, e invócalo desde el `programa`.
