@@ -3,4 +3,4 @@
 
 ¡Y llegó el momento de juntar todo lo que le enseñamos a Mukinita! :tada::book:
 
-> Tu último desafío es `sembrar choclo`, un `cantero de tomate` y  una `hilera de lechuga` tal como se ve en el tablero esperado.
+> Tu último desafío es `sembrar choclo`, un `cantero de tomate` y una `hilera de lechuga` tal como se ve en el tablero esperado.
