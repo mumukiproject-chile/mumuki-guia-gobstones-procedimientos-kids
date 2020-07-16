@@ -1,6 +1,10 @@
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/toolbox_1553288414373.xml"></gs-toolbox>
 
+<gs-attire 
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json"> 
+</gs-attire>
+
 Willie el jardinero :herb: quiere hacer una huerta para tener sus frutas :apple: y verduras :eggplant: frescas. Para simplificar su trabajo, se compró un tractor :tractor: que siembra las semillas en el jardín. 
 
 
