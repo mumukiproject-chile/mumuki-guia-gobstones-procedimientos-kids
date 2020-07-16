@@ -1,11 +1,15 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Cuando combinamos diferentes procedimientos siempre hay que tener en cuenta dónde comienzan y terminan. Parar pensar:\n\n* ¿Si invoco un procedimiento en cualquier lugar del tablero obtengo el mismo resultado?\n* ¿En qué posición del tablero termina el primer procedimiento? \n* ¿Dónde necesito ubicarme para que al invocar el segundo procedimiento efectivamente logre lo que espero?"
+teacher_info: "Cuando combinamos diferentes procedimientos siempre hay que tener en
+  cuenta dónde comienzan y terminan. Parar pensar:\n\n* ¿Si invoco un procedimiento
+  en cualquier lugar del tablero obtengo el mismo resultado?\n* ¿En qué posición del
+  tablero termina el primer procedimiento? \n* ¿Dónde necesito ubicarme para que al
+  invocar el segundo procedimiento efectivamente logre lo que espero?"
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Una huerta bien variada

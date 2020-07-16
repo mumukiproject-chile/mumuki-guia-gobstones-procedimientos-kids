@@ -1,6 +1,6 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
@@ -12,5 +12,5 @@ teacher_info: |-
   * ¿Alcanza con definir un procedimiento para que algo ocurra en el programa?
   * ¿Qué pasa si invoco un procedimiento que no incluye ninguna acción dentro de su definición?
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Toma un tomate
