@@ -1,1 +1,1 @@
-Recordá que un cantero son dos tomates alineados, o sea, uno al lado del otro. Y que ya no tenemos que preocuparnos por poner bolitas, porque ya definimos el procedimiento `Sembrar Tomate`, que lo podemos usar cuando queramos (buscalo en _Mis Procedimientos_). 
+Recuerda que un cantero son dos tomates alineados, es decir, uno al lado del otro. Y que ya no tenemos que preocuparnos por poner bolitas, porque ya definimos el procedimiento `Sembrar Tomate`, que podemos usar cuando queramos (búscalo en _Mis Procedimientos_). 
