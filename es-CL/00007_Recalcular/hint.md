@@ -1,0 +1,1 @@
+Lo bueno es que no hace falta hacer de cero `Sembrar Hilera de Lechugas`, porque ya lo tienes resuelto en el programa. ¡Sólo faltaba darle un nombre! :stuck_out_tongue_winking_eye:
