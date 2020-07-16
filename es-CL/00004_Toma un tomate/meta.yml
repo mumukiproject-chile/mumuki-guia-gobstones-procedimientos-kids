@@ -1,0 +1,16 @@
+---
+locale: es
+tags: [ ]
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: |-
+  A la hora de usar procedimientos es importante distinguir la diferencia entre **definir** e **invocar**.
+  Los procedimientos se definen con los comandos que describen sus acciones y se utilizan invocándolos dentro del programa. Para pensar:
+
+  * ¿Alcanza con definir un procedimiento para que algo ocurra en el programa?
+  * ¿Qué pasa si invoco un procedimiento que no incluye ninguna acción dentro de su definición?
+manual_evaluation: false
+choices: [ ]
+name: Toma un tomate
