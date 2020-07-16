@@ -1,0 +1,1 @@
+El tractor de Wille siembra choclo cuando ponemos 3 bolitas negras, así que agrega los tres `Poner` dentro del procedimiento `Sembrar Choclo`.
