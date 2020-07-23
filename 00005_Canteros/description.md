@@ -5,4 +5,4 @@ Ah, ¡pero a los tomates no les gusta estar solos :disappointed:! Vamos a sembra
 
 Lo bueno es que ya no tenemos que preocuparnos por _cómo_ plantar tomates, porque ahora contamos con `Sembrar Tomate`. :relaxed:
 
-> ¡Sembra un cantero de tomates! Completa el procedimiento `Sembrar Cantero De Tomates` para que siembre un tomate y otro al este, e invócalo desde el `programa`.
+> ¡Siembra un cantero de tomates! Completa el procedimiento `Sembrar Cantero De Tomates` para que siembre un tomate y otro al este, e invócalo desde el `programa`.
